@@ -1,0 +1,10 @@
+{
+  "name": "mongodbapi",
+  "version": 2,
+  "env": {
+    "MONGODB_URI": "@mongodburi"
+  },
+  "github": {
+    "autoAlias": false
+  }
+}
